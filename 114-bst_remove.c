@@ -27,7 +27,7 @@ int successor(bst_t *node)
  * two_children - function that gets the next successor using the min
  * value in the right subtree, and then replace the node value for
  * this successor
- * @root: node tat has two children
+ * @root: var node tat has two children
  * Return: the value found
  */
 int two_children(bst_t *root)

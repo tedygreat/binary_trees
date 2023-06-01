@@ -3,7 +3,7 @@
 /**
  * bal - Measures balance factor of a AVL
  * @tree: tree to go through
- * Return: balanced factor
+ * Return: balenced factor
  */
 void bal(avl_t **tree)
 {

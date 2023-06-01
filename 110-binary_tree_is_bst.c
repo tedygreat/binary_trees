@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
  * check_sub_tree_Left - check if all nodes are smaller than
- * the root specified
+ * root specified
  * @node: node in the tree to verify condition
  * @max: value to compare
  * Return: 1 if all nodes are smaller or equal or 0 if not

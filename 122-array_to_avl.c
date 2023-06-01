@@ -2,7 +2,7 @@
 
 /**
  * array_to_avl - turns an array to a avl tree
- * @array: array to turns to AVL tree
+ * @array: array of turns to AVL tree
  * @size: size of array
  * Return: AVL tree from array
  */
